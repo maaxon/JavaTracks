@@ -19,7 +19,7 @@ public class GenreService {
 
     public Genre readById(Long id) {
         return genreRepository.findById(id).orElseThrow(() ->
-                new RuntimeException("Category not found - " + id));
+                new RuntimeException("Genre not found - " + id));
     }
 
     public Genre create(GenreDTO dto){
