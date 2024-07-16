@@ -1,6 +1,6 @@
 package com.example.track.repository;
 
-import com.example.demo.entity.Track;
+import com.example.track.entity.Track;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

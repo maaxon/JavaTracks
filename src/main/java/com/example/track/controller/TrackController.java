@@ -1,9 +1,9 @@
 package com.example.track.controller;
 
-import com.example.demo.DTO.TrackDTO;
-import com.example.demo.DTO.UpdateTrackDTO;
-import com.example.demo.entity.Track;
-import com.example.demo.service.TrackService;
+import com.example.track.DTO.TrackDTO;
+import com.example.track.DTO.UpdateTrackDTO;
+import com.example.track.entity.Track;
+import com.example.track.service.TrackService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

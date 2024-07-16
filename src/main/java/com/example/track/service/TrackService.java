@@ -1,9 +1,9 @@
 package com.example.track.service;
 
-import com.example.demo.DTO.TrackDTO;
-import com.example.demo.DTO.UpdateTrackDTO;
-import com.example.demo.entity.Track;
-import com.example.demo.repository.TrackRepository;
+import com.example.track.DTO.TrackDTO;
+import com.example.track.DTO.UpdateTrackDTO;
+import com.example.track.entity.Track;
+import com.example.track.repository.TrackRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

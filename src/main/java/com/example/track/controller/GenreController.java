@@ -1,8 +1,8 @@
 package com.example.track.controller;
 
-import com.example.demo.DTO.GenreDTO;
-import com.example.demo.entity.Genre;
-import com.example.demo.service.GenreService;
+import com.example.track.DTO.GenreDTO;
+import com.example.track.entity.Genre;
+import com.example.track.service.GenreService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

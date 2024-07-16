@@ -1,8 +1,8 @@
 package com.example.track.service;
 
-import com.example.demo.DTO.GenreDTO;
-import com.example.demo.entity.Genre;
-import com.example.demo.repository.GenreRepository;
+import com.example.track.DTO.GenreDTO;
+import com.example.track.entity.Genre;
+import com.example.track.repository.GenreRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
